@@ -1,0 +1,1 @@
+The first kernel [here](src/hungry-geese-deep-q-network-starter-training.ipynb) aimed at maping the environment to better suite it for future models, it uses the eneral if-else decision making strategy.
