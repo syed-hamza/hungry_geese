@@ -32,5 +32,5 @@ With about 15 days remaining in hand, I set up multiple versions of DQN Deep Lea
 The last day of the compettition was memorable, I submitted all the kernels for the day and quickly left for bed. The next day I attended the earlier postponed JEE Main examination. Finally, thanks to our Education Minister for the decision to postpone the JEE Main for one whole month due to Pandemic. 
 
 ### About me
-I am and 18 year old Deep Learning enthusiast, I passed 12th Standard (CBSE) on July, 2021 with Agregate 96 %(with 99% in Computer and 96% in Mathematics). I'm extremely happy to figure in a list of Medal winners in Hungry Geese. Earlier, I had a Silver Medal (rank 79/2097) from a Healthcare problem (OSIC Pulmonary Fibrosis Progression) in Kaggle. This win helped me to reach the title of "Kaggle Competition Expert"!
+I am and 18 year old Deep Learning enthusiast, I passed 12th Standard (CBSE) on July, 2021 with Agregate 96%. I'm extremely happy to figure in a list of Medal winners in Hungry Geese. Earlier, I had a Silver Medal (rank 79/2097) from a Healthcare problem (OSIC Pulmonary Fibrosis Progression) in Kaggle. This win helped me to reach the title of "Kaggle Competition Expert"!
 
