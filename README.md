@@ -12,7 +12,7 @@ Hungry Geese involves a popular classic snake with a multiplayer twist to it. Th
 4) Colliding with the body of another goose disqualifies the goose. (Head on collision will disqualify both geese)
 
 ## Applications:
-hungry geese is a peculiar straight forward problem of reinforcement learning. Reinforcement learning has several real world applications lke logits and healthcare.
+Hungry Geese is a typical use case of Reinforcement Learning particularly popular in Gaming areas. 
 ## Approach:
 ### input features(21 x 7 x 11)
 ####    1) feature 1-4 : head of geese
