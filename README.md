@@ -27,9 +27,7 @@ I participated to Hungry Geese with one month left for this 6-month long compett
 
 My initial aproach was the [keras DQN](src/keras.ipynb) which didn't perform well even after hours of training and tweaking which compelled me to switch algorithms. The agent failed to perform better than the provided greedy agent even after hours of training. 
 
-With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models throught games among themselves and other public agents for ensembling and final submition. I uploaded about 63 kernels with multiple greedy heuristics. 
-
-The last day of the compettition was memorable, I submitted all the kernels for the day and quickly left for bed. The next day I attended the earlier postponed JEE Main examination. Finally, thanks to our Education Minister for the decision to postpone the JEE Main for one whole month due to Pandemic. 
+With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming workstation PC that is having a RTX-2070 GPU. I collected about 6 best models throught games among themselves and other public agents for ensembling and final submition.
 
 ### About me
 I am and 18 year old Deep Learning enthusiast, I passed 12th Standard (CBSE) on July, 2021 with Agregate 96%. I'm extremely happy to figure in a list of Medal winners in Hungry Geese. Earlier, I had a Silver Medal (rank 79/2097) from a Healthcare problem (OSIC Pulmonary Fibrosis Progression) in Kaggle. This win helped me to reach the title of "Kaggle Competition Expert"!
