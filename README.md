@@ -17,13 +17,15 @@ Hungry Geese involves a popular classic snake with a multiplayer twist to it. Th
 ## Bellman Equation:
 ![equation](/images/bellman.svg)
 
-The discount factor is varied between .8 and .95.
+The [discount factor](https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning) is varied between .8 and .95.
 ## Approach:
 I participated to Hungry Geese with one month left for this 6-month long competition.Although it was an uphill task to make an impact with only one month in hand, it was acheivable. Initially, I started with Keras library of Reinforcement learning but I switched to [HandyRl](https://github.com/DeNA/HandyRL) library. HandyRl is easy to use/tweak and hence vaible in a time crunch situation.
 
-My initial aproach was the [keras DQN](src/keras.ipynb) which didn't perform well even after hours of training and tweaking which compelled me to switch algorithms. The agent failed to perform better than the provided greedy agent even after hours of training. 
+My first attempt was a ruled based agent [here](src/Smarter_Greedy_Goose.ipynb).
 
-With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models throught games among themselves and other public agents for ensembling and final submition.
+My initial aproach on a policy based agent was the [keras DQN](src/keras.ipynb) which failed to perform better than the provided greedy agent even after hours of training and tweaking. 
+
+With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models through games among themselves and other public agents for ensembling and final submission.
 ### input features(21 x 7 x 11)
    1) feature 1-4 : head of geese
    2) feature 5-8 : Tail of geese
@@ -32,7 +34,7 @@ With about 15 days remaining in hand, I set up multiple versions of DQN Deep Lea
    5) feature 17: food
    6) feature 18-21: possible movements
 ### Model Architecture:
-![Model](/images/architecture.png)
+![Model](/images/architecture_model.png)
 
 
 
