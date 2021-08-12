@@ -28,7 +28,7 @@ My initial aproach on a policy based agent was the [keras DQN](src/keras.ipynb) 
 
 My first attempt was a ruled based agent [here](src/Smarter_Greedy_Goose.ipynb).
 
-With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models running through internal games among themselves and other public agents for ensembling and final submission. I uploaded a total of 63 kernels with various experiments. The ranking on the leaderboard was extremely volatile and unpredictable. There was some time I was ranked 41 into the list. 
+With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models running through internal games among themselves and other public agents for ensembling and final submission. I uploaded a total of 63 kernels with various experiments. The ranking on the leaderboard was extremely volatile and unpredictable. It was a sign of hard battles from thousands of the agents uploaded by the participants. There was some time I was ranked 41st into the list. 
 ### input features(21 x 7 x 11)
    1) feature 1-4 : head of geese
    2) feature 5-8 : Tail of geese
