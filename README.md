@@ -22,13 +22,13 @@ One of the most important thing that I learned from this commpettion is the Bell
 
 The [discount factor](https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning) is varied between .8 and .95.
 ## Approach:
-I participated to Hungry Geese with one month left for this 6-month long competition.Although it was an uphill task to make an impact with only one month in hand, it was acheivable. Initially, I started with Keras library of Reinforcement learning but I switched to [HandyRl](https://github.com/DeNA/HandyRL) library. HandyRl is easy to use/tweak and hence vaible in a time crunch situation.
+Although it was an uphill task to make an impact with only one month in hand, it was acheivable.
+
+My initial aproach on a policy based agent was the [keras DQN](src/keras.ipynb) which failed to perform better than the provided greedy agent even after hours of training and tweaking. I switched to [HandyRl](https://github.com/DeNA/HandyRL) library. HandyRl is easy to use/tweak and hence vaible in a time crunch situation.
 
 My first attempt was a ruled based agent [here](src/Smarter_Greedy_Goose.ipynb).
 
-My initial aproach on a policy based agent was the [keras DQN](src/keras.ipynb) which failed to perform better than the provided greedy agent even after hours of training and tweaking. 
-
-With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models through games among themselves and other public agents for ensembling and final submission.
+With about 15 days remaining in hand, I set up multiple versions of DQN Deep Learning with different model architectures and [parametres](config.yaml) to run for about 7 days. Thanks to my gaming PC that is having a RTX-2070 GPU. I collected about 6 best models running through internal games among themselves and other public agents for ensembling and final submission. I uploaded a total of 63 kernels with various experiments. The ranking on the leaderboard was extremely volatile and unpredictable. There was some time I was ranked 41 into the list. 
 ### input features(21 x 7 x 11)
    1) feature 1-4 : head of geese
    2) feature 5-8 : Tail of geese
