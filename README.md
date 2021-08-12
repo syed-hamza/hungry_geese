@@ -17,6 +17,7 @@ Hungry Geese is a popular classic snake game with a multiplayer twist to it. The
 
 ## Bellman Equation:
 One of the most important thing that I learned from this commpettion is the Bellman Equation. It is amazing to see how the Reinforcement Learning techniques evolved from this equation. I attended few Tutorials from Deepmind to get a quick grasp of Reinforcement Learning techniques. 
+
 ![equation](/images/bellman.svg)
 
 The [discount factor](https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning) is varied between .8 and .95.
