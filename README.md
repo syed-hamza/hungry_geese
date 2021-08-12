@@ -1,9 +1,10 @@
 # Hungry Geese
 In this repository I am presenting my experience of participating into the kaggle competition [Hungry Geese](https://www.kaggle.com/c/hungry-geese/).
+After completing my 12th std education I decided to participate in Hungry Geese compettion. However, this 6-month long compettition has barely a month left. I'm extremely happy that with final rank 100 I could make into the list of Medal winners. Since it is my second medal win in Kaggle,I achived the level of Kaggle Expert. 
 
 ## Introduction:
-I am grateful to the Kaggle team for running this competition and the community for this educative experience.
-Hungry Geese involves a popular classic snake with a multiplayer twist to it. The snake travels allound a 7x11 grid attempting to grow as large as it can while avoiding collision with other geese. The longest geese surviving the 200 step game or the last surviving geese is declared the winner.
+I am grateful to the Kaggle team for running this wonderful competition and the helping community for this educative experience.
+Hungry Geese is a popular classic snake game with a multiplayer twist to it. The snake travels allound a 7x11 grid attempting to grow as large as it can while avoiding collision with other geese. The longest geese surviving the 200 step game or the last surviving geese is declared the winner.
 
 ![Game](/images/2021-08-12_01-57.png)
 
@@ -15,6 +16,7 @@ Hungry Geese involves a popular classic snake with a multiplayer twist to it. Th
 4) Colliding with the body of another goose disqualifies the goose. (Head on collision will disqualify both geese)
 
 ## Bellman Equation:
+One of the most important thing that I learned from this commpettion is the Bellman Equation. It is amazing to see how the Reinforcement Learning techniques evolved from this equation. I attended few Tutorials from Deepmind to get a quick grasp of Reinforcement Learning techniques. 
 ![equation](/images/bellman.svg)
 
 The [discount factor](https://stats.stackexchange.com/questions/221402/understanding-the-role-of-the-discount-factor-in-reinforcement-learning) is varied between .8 and .95.
@@ -39,5 +41,5 @@ With about 15 days remaining in hand, I set up multiple versions of DQN Deep Lea
 
 
 ### About me
-I am and 18 year old Deep Learning enthusiast, I passed 12th Standard (CBSE) on July, 2021 with Agregate 96%. I'm extremely happy to figure in a list of Medal winners in Hungry Geese. Earlier, I had a Silver Medal (rank 79/2097) from a Healthcare problem (OSIC Pulmonary Fibrosis Progression) in Kaggle. This win helped me to reach the title of "Kaggle Competition Expert"!
+I am and 18 year old Deep Learning enthusiast, I passed 12th Standard (CBSE) on July, 2021 with Agregate 96%. I'm intested to work in any areas of Deep Learning. Earlier, I had a Silver Medal (rank 79/2097) from a Healthcare problem (OSIC Pulmonary Fibrosis Progression) in Kaggle. This win helped me to reach the title of "Kaggle Competition Expert"!
 
