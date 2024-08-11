@@ -39,5 +39,3 @@ With about 15 days remaining in hand, I set up multiple versions of DQN Deep Lea
 ![Model](/images/architecture_model.png)
 
 
-### About me
-I am an 18-year-old Deep Learning enthusiast, I passed 12th Standard (CBSE) on July 2021 with an Aggregate mark of 96%. I'm interested to work in any area of Deep Learning. Earlier, I had a Silver Medal (rank 79/2097) from a Healthcare problem (OSIC Pulmonary Fibrosis Progression) in Kaggle. This win helped me to reach the title of "Kaggle Competition Expert"!
