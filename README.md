@@ -1,6 +1,6 @@
 # Hungry Geese
 In this repository, I am presenting my experience of participating in the Kaggle competition [Hungry Geese](https://www.kaggle.com/c/hungry-geese/).
-After completing my 12th std education I decided to participate in the Hungry Geese competition. However, this 6-month long competition has barely a month left. I'm extremely happy that with a final rank of 100 I could make it into the list of Medal winners. Since it is my second medal win in Kaggle, I achieved the level of [Kaggle Expert](https://www.kaggle.com/syedhamzahussain).
+I'm extremely happy that with a final rank of 100 I could make it into the list of Medal winners. Since it is my second medal win in Kaggle, I achieved the level of [Kaggle Expert](https://www.kaggle.com/syedhamzahussain).
 
 ## Introduction:
 I am grateful to the Kaggle team for running this wonderful competition and for the helping community with this educative experience.
